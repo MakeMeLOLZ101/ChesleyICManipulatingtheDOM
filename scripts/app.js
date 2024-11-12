@@ -41,7 +41,7 @@ btnChange3.addEventListener("click", function(event){
 })
 
 btnChange4.addEventListener("click", function(event){
-    affectMe4.innerText = "You think Isaiah could see this?";
+    affectMe4.innerText = "You think Isaiah could read this?";
     affectMe4.className = "secondstyle " + "spinner";
 })
 
