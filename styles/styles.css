@@ -1,0 +1,44 @@
+body{
+    background-color: turquoise;
+}
+
+.firststyle{
+    font-size: 2rem;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.secondstyle{
+    font-size: 2rem;
+    color: blueviolet;
+}
+
+.thirdstyle{
+    font-size: 8rem;
+}
+
+.fourthstyle{
+    font-size: 2rem;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.fifthstyle{
+    color: red;
+}
+
+.sixthstyle{
+    color: darkblue;
+}
+
+.seventhstyle{
+    color: beige;
+}
+
+.eighthstyle{
+    font-size: 3rem;
+}
+
+.ninthstyle{
+    font-style: italic;
+    color: darkgoldenrod;
+    
+}
